@@ -1,0 +1,8 @@
+C:\Users\Dime\Desktop\Certificação C#\Criar e usar tipos\bin\Debug\netcoreapp1.1\CriarUsarTipos.deps.json
+C:\Users\Dime\Desktop\Certificação C#\Criar e usar tipos\bin\Debug\netcoreapp1.1\CriarUsarTipos.runtimeconfig.json
+C:\Users\Dime\Desktop\Certificação C#\Criar e usar tipos\bin\Debug\netcoreapp1.1\CriarUsarTipos.runtimeconfig.dev.json
+C:\Users\Dime\Desktop\Certificação C#\Criar e usar tipos\bin\Debug\netcoreapp1.1\CriarUsarTipos.dll
+C:\Users\Dime\Desktop\Certificação C#\Criar e usar tipos\bin\Debug\netcoreapp1.1\CriarUsarTipos.pdb
+C:\Users\Dime\Desktop\Certificação C#\Criar e usar tipos\obj\Debug\netcoreapp1.1\CriarUsarTipos.AssemblyInfo.cs
+C:\Users\Dime\Desktop\Certificação C#\Criar e usar tipos\obj\Debug\netcoreapp1.1\CriarUsarTipos.dll
+C:\Users\Dime\Desktop\Certificação C#\Criar e usar tipos\obj\Debug\netcoreapp1.1\CriarUsarTipos.pdb
